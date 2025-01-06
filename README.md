@@ -905,7 +905,7 @@ Open up your desired browser and paste the ALB’s DNS URL in your browser.
 
 Note — Make sure to use the “http://” protocol and not https:// to reach the ALB.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/a74c35d71163d3407b39982f2369aa9e10bced5d/images/Screenshot%202025-01-05%20155833.png)
 
 ## Congratulations! 
 
