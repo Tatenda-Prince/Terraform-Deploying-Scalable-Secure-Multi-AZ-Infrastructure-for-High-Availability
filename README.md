@@ -854,7 +854,7 @@ terraform validate
 ```
 The command should generate a success message, confirming that it is valid, as demonstrated below.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/9967954009418a96d55045b16acb73aaaa117528/images/Screenshot%202025-01-05%20160533.png)
 
 
 Let’s now execute the following command to generate a list of all the modifications that Terraform will apply. —
