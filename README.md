@@ -127,7 +127,7 @@ Your manager has assigned you to deploy a cloud infrastructure on AWS that will 
 
 6.Output the public DNS of the ALB and then verify reachability to the web servers using its URL.
 
-Step 0: Install latest Visual Code Studio environment
+## Step 0: Install latest Visual Code Studio environment
 
 To enhance your understanding and follow this demonstration more effectively, please clone the project’s repository from my GitHub by clicking on the link below. As we move forward, feel free to edit the files as necessary.
 
