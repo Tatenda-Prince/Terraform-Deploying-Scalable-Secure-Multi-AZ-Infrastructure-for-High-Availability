@@ -883,7 +883,7 @@ The process should now conclude with a message indicating “Apply complete”, 
 
 Please copy and save the ALB’s DNS URL, which will be required to access the web page from the browser.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/0c8a6d41164cb0660c71b8401c28a9b71bd6b2eb/images/Screenshot%202025-01-05%20161205.png)
 
 Now, let’s verify that our resources have been created from reviewing them in the Management Console.
 
