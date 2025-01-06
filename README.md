@@ -131,6 +131,8 @@ Step 0: Install latest Visual Code Studio environment
 
 To enhance your understanding and follow this demonstration more effectively, please clone the project’s repository from my GitHub by clicking on the link below. As we move forward, feel free to edit the files as necessary.
 
+https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-
+
 ## Step 1: Creating and Configuring a custom AWS VPC
 
 Our initial objective is to establish a custom VPC within our AWS environment, where all our resources can be deployed. To achieve this, we must define a logically isolated CIDR block and carefully select the appropriate subnets and corresponding availability zones (AZ) to deploy them in.
