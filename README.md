@@ -107,13 +107,13 @@ ALB provides various features such as SSL/TLS offloading, connection draining, a
 4.Amazon EC2 Key pair
 
 
-Use Case
+## Use Case
 
 Up The Chels TECH Corp, an e-commerce company, needs to handle a surge in traffic during the holiday season. The company wants to ensure that their website remains available and responsive to customers even during high traffic periods.
 
 Your manager has assigned you to deploy a cloud infrastructure on AWS that will ensure high availability and fault tolerance. You decide to utilize Terraform for infrastructure automation to deploy an EC2 Auto Scaling Group (ASG) in private subnets fronted by an Application Load Balancer (ALB) in public subnets, which will automatically scale up or down based on traffic, ensuring that the website remains responsive to customers at all times.
 
-Objectives
+## Objectives
 
 1.Create a custom Virtual Private Network (VPC) with 2 public subnets, 2 private subnets in two separate Availability Zones.
 
