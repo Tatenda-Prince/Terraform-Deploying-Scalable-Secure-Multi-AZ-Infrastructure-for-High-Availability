@@ -875,7 +875,7 @@ terraform apply
 ```
 Terraform will initiate the process of applying all the changes to the infrastructure. Kindly wait for a few seconds for the deployment process to complete.
 
-![image]()
+![image](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/3dacb794d4c12fe33df01b4610f67145b6e1a311/images/Screenshot%202025-01-05%20160737.png)
 
 ## Success!
 
