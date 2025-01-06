@@ -891,7 +891,7 @@ Now, let’s verify that our resources have been created from reviewing them in 
 
 In the AWS Management Console, head to the EC2 dashboard and verify that the two servers were launched from the ASG.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/6d59c9902334270b17742913d9011a3754aa6f8c/images/Screenshot%202025-01-05%20155701.png)
 
 Also, navigate to the left pane, scroll down and select Target groups. Select the created Target group, scroll down, then verify that the instances Health status is healthy, as shown below.
 
