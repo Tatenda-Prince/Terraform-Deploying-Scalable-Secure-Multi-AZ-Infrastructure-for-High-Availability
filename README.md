@@ -864,7 +864,7 @@ terraform plan
 ```
 The list of changes that Terraform is anticipated to apply to the infrastructure resources should be displayed. The “+” sign indicates what will be added, while the “-” sign indicates what will be removed.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/3a49fb9f4d7ec4da95309ba91563e16a14cf19c1/images/Screenshot%202025-01-05%20160623.png)
 
 Now, let’s deploy this infrastructure! Execute the following command to apply the changes and deploy the resources.
 
