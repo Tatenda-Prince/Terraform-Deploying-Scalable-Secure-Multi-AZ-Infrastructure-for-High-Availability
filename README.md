@@ -845,7 +845,7 @@ terraform init
 
 Upon completion of the initialization process, a successful prompt will be displayed, as shown below.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/f3bfcb4e7b86d7963611df79c0d25ac5c5cfaa8f/images/Screenshot%202025-01-05%20160457.png)
 
 Next, let’s ensure that our code does not contain any syntax errors by running the following command —
 
