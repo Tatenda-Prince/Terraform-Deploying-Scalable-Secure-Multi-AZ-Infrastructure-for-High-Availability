@@ -895,7 +895,7 @@ In the AWS Management Console, head to the EC2 dashboard and verify that the two
 
 Also, navigate to the left pane, scroll down and select Target groups. Select the created Target group, scroll down, then verify that the instances Health status is healthy, as shown below.
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/30b076da01e71cfab5435c473829b47461e1ff73/images/Screenshot%202025-01-05%20155740.png)
 
 Great! We’ve successfully confirmed that our ASG has generated the expected EC2 instances, and all of our Target groups’ health statuses are displaying as healthy. Let’s now verify that we can access our ASG’s web servers through our ALB.
 
