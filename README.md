@@ -3,9 +3,9 @@
 
 " Terraform Auto Scaling"
 
-Technical Architecture
+# Technical Architecture
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/40ce4c252fc5e172587eadb5f41bc5b3c278a48d/images/Screenshot%202025-02-06%20093756.png)
 
 # Introduction
 
