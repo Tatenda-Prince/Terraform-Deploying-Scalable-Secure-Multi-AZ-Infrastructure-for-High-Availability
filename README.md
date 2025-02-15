@@ -1,4 +1,4 @@
-# Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-
+# Terraform-Deploying Scalable & Secure Multi-AZ Infrastructure for High Availability
 
 
 " Terraform Auto Scaling"
