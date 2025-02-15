@@ -38,7 +38,7 @@ Terraform is also cloud agnostic. This means it supports multiple cloud provider
 
 Now let me give you some background information to understand the more specific components of Terraform.
 
-# Background
+## Background
 
 ## Terraform Providers
 
@@ -60,7 +60,7 @@ Resource arguments are the parameters or attributes that are passed to a resourc
 
 Variables are used to define values that can be passed into a Terraform configuration at runtime. These variables can be easily changed or customized in your configurations to make them more dynamic and reusable.
 
-# Main Terraform Commands
+## Main Terraform Commands
 
 ## Terraform init
 
@@ -98,7 +98,7 @@ ALB can intelligently route traffic to different targets based on advanced routi
 
 ALB provides various features such as SSL/TLS offloading, connection draining, and sticky sessions, and can be used with AWS’s Auto Scaling and Elasticity features to ensure optimal performance and scalability.
 
-# Prerequisites
+## Prerequisites
 
 1.Basic knowledge and understanding of Terraform concepts and commands
 
