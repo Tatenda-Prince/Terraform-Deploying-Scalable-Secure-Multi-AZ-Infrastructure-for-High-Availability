@@ -915,7 +915,7 @@ Note — Make sure to use the “http://” protocol and not https:// to reach t
 
 ## Congratulations! 
 
-ou’ve successfully completed “Terraform Auto Scaling”. You’ve learned how to leverage Terraform to build a reliable and scalable cloud infrastructure that can handle high traffic loads and maintain uptime, even in the event of failures in individual components.
+We’ve successfully completed “Terraform Auto Scaling”. You’ve learned how to leverage Terraform to build a reliable and scalable cloud infrastructure that can handle high traffic loads and maintain uptime, even in the event of failures in individual components.
 
 # Clean up
 
