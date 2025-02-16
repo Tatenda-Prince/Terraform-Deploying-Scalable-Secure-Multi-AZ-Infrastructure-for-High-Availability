@@ -913,24 +913,6 @@ Note — Make sure to use the “http://” protocol and not https:// to reach t
 
 ![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Secure-Highly-Available-Fault-Tolerant-Cloud-Infrastructure-/blob/a74c35d71163d3407b39982f2369aa9e10bced5d/images/Screenshot%202025-01-05%20155833.png)
 
-## Step 11: Lets SSH one of the instance to a local machine and check the connection
-
-Let’s confirm that we can SSH into our EC2 server.
-
-![image_alt]()
-
-
-
-## App-Tier EC2 Connection Checking:
-
-Application servers are up and running. Let’s verify connectivity by pinging the application server from one of the web servers.
-SSH into the web server EC2 and ping the private IP address of one of the app server EC2s.
-
-
-
-
-
-
 ## Congratulations! 
 
 We’ve successfully completed “Terraform Auto Scaling”. You’ve learned how to leverage Terraform to build a reliable and scalable cloud infrastructure that can handle high traffic loads and maintain uptime, even in the event of failures in individual components.
