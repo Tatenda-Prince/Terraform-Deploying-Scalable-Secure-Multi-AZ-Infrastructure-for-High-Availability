@@ -5,7 +5,7 @@
 
 # Technical Architecture
 
-![image alt]()
+![image alt](https://github.com/Tatenda-Prince/Terraform-Deploying-Scalable-Secure-Multi-AZ-Infrastructure-for-High-Availability/blob/60364f07bcd7612851bec7b5388e9e694410a0c3/images/Screenshot%202025-02-16%20114000.png)
 
 # Introduction
 
